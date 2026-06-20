@@ -1,7 +1,0 @@
-{
-  "phases": {
-    "setup": {
-      "phpVersion": "8.4"
-    }
-  }
-}
