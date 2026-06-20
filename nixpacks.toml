@@ -1,0 +1,4 @@
+cat > nixpacks.toml << 'EOF'
+[phases.setup]
+nixPkgs = ["php84", "php84Packages.composer"]
+EOF
